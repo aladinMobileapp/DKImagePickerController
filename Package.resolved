@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "DKCamera",
-        "repositoryURL": "https://github.com/zhangao0086/DKCamera",
+        "repositoryURL": "https://github.com/dslee02/DKCamera.git",
         "state": {
-          "branch": "master",
-          "revision": "5c691d11014b910aff69f960475d70e65d9dcc96",
+          "branch": "develop",
+          "revision": "b3e9167e86110a051ccc3e1e1c55313c437b6595",
           "version": null
         }
       },
